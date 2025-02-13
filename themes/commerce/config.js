@@ -12,8 +12,8 @@ const CONFIG = {
   COMMERCE_FOOTER_RIGHT_IMG_URL: 'https://cdn-fusion.imgcdn.store/i/2025/5963f5c8492ddcb2.jpg', // 显示页脚右侧的图片，通常放二维码
   COMMERCE_FOOTER_RIGHT_TEXT: null, // 页脚右侧图片下的文字描述
 
-  COMMERCE_HOME_POSTS_COUNT: 9, // 首页展示商品数
-  COMMERCE_CONTACT_WHATSAPP_SHOW: true, // 是否展示whatsapp联系按钮 请配置 CONTACT_WHATSAPP
+  COMMERCE_HOME_POSTS_COUNT: 6, // 首页展示商品数
+  COMMERCE_CONTACT_WHATSAPP_SHOW: false, // 是否展示whatsapp联系按钮 请配置 CONTACT_WHATSAPP
   COMMERCE_CONTACT_TELEGRAM_SHOW: false // 联系栏展示telegram按钮 请配置 CONTACT_TELEGRAM
 }
 export default CONFIG
