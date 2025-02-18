@@ -4,10 +4,10 @@ const CONFIG = {
 
   COMMERCE_TEXT_CENTER_TITLE: 'Laputa.K', // 中间产品区块标题
   COMMERCE_TEXT_CENTER_DESCRIPTION:'As long as you keep your promise, you will be free too.', // 中间产品区块文字描述
-  COMMERCE_TEXT_CENTER_CATEGORY_TITLE: 'Product Categories', // 左侧产品分类标题
-  COMMERCE_TEXT_FOOTER_TITLE: 'Contact US', // COMMERCE主题页脚文案标题；按Shift+Enter键可以换行
-  COMMERCE_TEXT_FOOTER_MENU_1: 'Product Center', // COMMERCE主题页脚左侧菜单标题1
-  COMMERCE_TEXT_FOOTER_MENU_2: 'About US', // COMMERCE主题页脚左侧菜单标题2
+  COMMERCE_TEXT_CENTER_CATEGORY_TITLE: '专   栏', // 左侧产品分类标题
+  COMMERCE_TEXT_FOOTER_TITLE: '', // COMMERCE主题页脚文案标题；按Shift+Enter键可以换行
+  COMMERCE_TEXT_FOOTER_MENU_1: '', // COMMERCE主题页脚左侧菜单标题1
+  COMMERCE_TEXT_FOOTER_MENU_2: '', // COMMERCE主题页脚左侧菜单标题2
 
   COMMERCE_FOOTER_RIGHT_IMG_URL: 'https://cdn-fusion.imgcdn.store/i/2025/5963f5c8492ddcb2.jpg', // 显示页脚右侧的图片，通常放二维码
   COMMERCE_FOOTER_RIGHT_TEXT: null, // 页脚右侧图片下的文字描述
