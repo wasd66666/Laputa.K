@@ -10,7 +10,7 @@ const CONFIG = {
   COMMERCE_TEXT_FOOTER_MENU_2: '', // COMMERCE主题页脚左侧菜单标题2
 
   COMMERCE_FOOTER_RIGHT_IMG_URL: 'https://cdn-fusion.imgcdn.store/i/2025/9420ee7730b21026.png', // 显示页脚右侧的图片，通常放二维码
-  COMMERCE_FOOTER_RIGHT_TEXT: '扫码私戳', // 页脚右侧图片下的文字描述
+  COMMERCE_FOOTER_RIGHT_TEXT: '', // 页脚右侧图片下的文字描述
 
   COMMERCE_HOME_POSTS_COUNT: 6, // 首页展示商品数
   COMMERCE_CONTACT_WHATSAPP_SHOW: false, // 是否展示whatsapp联系按钮 请配置 CONTACT_WHATSAPP
