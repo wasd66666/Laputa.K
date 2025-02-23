@@ -2,7 +2,7 @@ const CONFIG = {
   HEXO_HOME_BANNER_ENABLE: true,
   // 3.14.1以后的版本中，欢迎语在blog.config.js中配置，用英文逗号','隔开多个。
   HEXO_HOME_BANNER_GREETINGS: [
-    'As long as you keep your promise, you will be free too!'
+    'As long as you keep your promise, you will be free!'
   ], // 首页大图标语文字
 
   HEXO_HOME_NAV_BUTTONS: true, // 首页是否显示分类大图标按钮
@@ -29,12 +29,12 @@ const CONFIG = {
 
   HEXO_ARTICLE_ADJACENT: true, // 显示上一篇下一篇文章推荐
   HEXO_ARTICLE_COPYRIGHT: true, // 显示文章版权声明
-  HEXO_ARTICLE_RECOMMEND: true, // 文章关联推荐
+  HEXO_ARTICLE_RECOMMEND: false, // 文章关联推荐
 
   HEXO_WIDGET_LATEST_POSTS: true, // 显示最新文章卡
   HEXO_WIDGET_ANALYTICS: false, // 显示统计卡
   HEXO_WIDGET_TO_TOP: true,
-  HEXO_WIDGET_TO_COMMENT: true, // 跳到评论区
+  HEXO_WIDGET_TO_COMMENT: false, // 跳到评论区
   HEXO_WIDGET_DARK_MODE: true, // 夜间模式
   HEXO_WIDGET_TOC: true // 移动端悬浮目录
 }
