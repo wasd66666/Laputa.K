@@ -11,7 +11,7 @@ export default function PoweredBy(props) {
       <a
         href='https://www.lucita.online/'
         className='underline justify-start'>
-        'Laputa.K'}
+        Laputa.K}
       </a>
       .
     </div>
