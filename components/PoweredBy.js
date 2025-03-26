@@ -11,7 +11,7 @@ export default function PoweredBy(props) {
       <a
         href='https://www.lucita.online/'
         className='underline justify-start'>
-        NotionNext {siteConfig('VERSION')}
+        'Laputa.K'}
       </a>
       .
     </div>
