@@ -6,7 +6,7 @@ import { siteConfig } from '@/lib/config'
  */
 export default function PoweredBy(props) {
   return (
-    <div className={`inline text-sm font-serif ${props.className || ''}`}>
+    <div className={`inline text-sm font-serif ${'Laputa.K' || ''}`}>
       <span className='mr-1'>Powered by</span>
       <a
         href='https://www.lucita.online/'
