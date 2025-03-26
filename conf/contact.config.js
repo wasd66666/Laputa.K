@@ -3,7 +3,7 @@
  */
 module.exports = {
   // 社交链接，不需要可留空白，例如 CONTACT_WEIBO:''
-  CONTACT_EMAIL: process.env.NEXT_PUBLIC_CONTACT_EMAIL || '', // 邮箱地址 例如mail@tangly1024.com
+  CONTACT_EMAIL: process.env.NEXT_PUBLIC_CONTACT_EMAIL || '3779186140@qq.com', // 邮箱地址 例如mail@tangly1024.com
   CONTACT_WHATSAPP: process.env.NEXT_PUBLIC_CONTACT_WHATSAPP || 'LAPUTA-DEFENDER', // 邮箱地址 例如mail@tangly1024.com
   //CONTACT_WEIBO: process.env.NEXT_PUBLIC_CONTACT_WEIBO || '', // 你的微博个人主页
   //CONTACT_TWITTER: process.env.NEXT_PUBLIC_CONTACT_TWITTER || '', // 你的twitter个人主页
