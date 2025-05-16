@@ -12,8 +12,8 @@
 }
 /* 自定义代码块字体大小和行间距 */  
 .notion .notion-code {  
-  font-size: 14px !important; /* 调整字体大小 */  
-  line-height: 1.6 !important; /* 调整行间距 */  
+  font-size: 18px !important; /* 调整字体大小 */  
+  line-height: 2 !important; /* 调整行间距 */  
 }  
   
 /* 如果需要调整整个网站的代码字体大小 */  
