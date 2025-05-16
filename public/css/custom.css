@@ -10,3 +10,19 @@
 .toolbar-item button[data-copy-state="copy"] {  
   display: none !important;  
 }
+/* 自定义代码块字体大小和行间距 */  
+.notion .notion-code {  
+  font-size: 14px !important; /* 调整字体大小 */  
+  line-height: 1.6 !important; /* 调整行间距 */  
+}  
+  
+/* 如果需要调整整个网站的代码字体大小 */  
+.notion {  
+  font-size: 16px !important; /* 调整整体字体大小 */  
+  line-height: 1.5 !important; /* 调整整体行间距 */  
+}  
+  
+/* 针对代码块中的行号 */  
+.line-numbers .line-numbers-rows {  
+  font-size: 14px !important; /* 调整行号字体大小 */  
+}
