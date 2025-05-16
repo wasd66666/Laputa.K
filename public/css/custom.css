@@ -6,3 +6,7 @@
 .fa-info:before {
     content: "\f05a";
 }
+/* 隐藏代码块右上角的复制按钮 */  
+.toolbar-item button[data-copy-state="copy"] {  
+  display: none !important;  
+}
