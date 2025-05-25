@@ -33,6 +33,7 @@ import TocDrawer from './components/TocDrawer'
 import TocDrawerButton from './components/TocDrawerButton'
 import CONFIG from './config'
 import { Style } from './style'
+import ContactCard from '@/components/ContactCard'
 
 const AlgoliaSearchModal = dynamic(
   () => import('@/components/AlgoliaSearchModal'),
@@ -157,6 +158,11 @@ const LayoutBase = props => {
 
         {/* 页脚 */}
         <Footer title={siteConfig('TITLE')} />
+
+                                  
+        {/* 联系我们悬浮卡片 */}
+        <ContactCard />
+                                  
       </div>
     </ThemeGlobalHexo.Provider>
   )
