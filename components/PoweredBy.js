@@ -9,7 +9,7 @@ export default function PoweredBy(props) {
     <div className={`inline text-sm font-serif ${'Laputa.K' || ''}`}>
       <span className='mr-1'>Powered by</span>
       <a
-        href='https://www.lucita.online/'
+        href='https://www.laputa-blog.online/'
         className='underline justify-start'>
         Laputa.K
       </a>
