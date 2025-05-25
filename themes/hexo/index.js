@@ -158,10 +158,6 @@ const LayoutBase = props => {
 
         {/* 页脚 */}
         <Footer title={siteConfig('TITLE')} />
-
-                                  
-        {/* 联系我们悬浮卡片 */}
-        <ContactCard />
                                   
       </div>
     </ThemeGlobalHexo.Provider>
