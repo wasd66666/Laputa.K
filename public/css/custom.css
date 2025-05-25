@@ -25,3 +25,7 @@
 .line-numbers .line-numbers-rows {  
   font-size: 14px !important; /* 调整行号字体大小 */  
 }
+/* 隐藏整个页脚 */
+footer {
+  display: none !important;
+}
